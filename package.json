@@ -1,0 +1,23 @@
+{
+  "name": "askova",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/translate": "^9.1.0",
+    "@supabase/supabase-js": "^2.43.4",
+    "@vitalets/google-translate-api": "^9.2.1",
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "franc": "^6.2.0",
+    "franc-min": "^6.2.0"
+  }
+}
